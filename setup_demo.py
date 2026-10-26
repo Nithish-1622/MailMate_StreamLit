@@ -1,0 +1,11 @@
+GROQ_API_KEY=your_groq_api_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
+EMAIL_ADDRESS=your_email@gmail.com
+EMAIL_PASSWORD=your_app_password_here
+IMAP_SERVER=imap.gmail.com
+IMAP_PORT=993
+MAX_EMAILS_FETCH=100
+PRIORITY_THRESHOLD=0.7
+SUMMARIZATION_MAX_LENGTH=100
+TTS_LANGUAGE=en
+TTS_SPEED=150
